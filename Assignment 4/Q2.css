@@ -1,0 +1,41 @@
+header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.rishi {
+    padding: 50px;
+    text-align: center;
+}
+h2 {
+    color: #333366;
+}
+.hi-button {
+    background-color: rgba(255, 99, 71, 0.9); 
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.hi-button:hover {
+    background-color: rgba(255, 69, 0, 1); 
+}
+footer {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
